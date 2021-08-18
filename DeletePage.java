@@ -1,6 +1,4 @@
-/* Duyen Dang
-* August 10, 2019
-* This frame displays text fields for user to enter data that they want to 
+/* This frame displays text fields for user to enter data that they want to 
 delete. Buttons to cancel and execute deleting.  */
 package money;
 
