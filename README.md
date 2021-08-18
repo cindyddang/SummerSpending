@@ -10,8 +10,9 @@ Add/Delete/Edit data in database
 
 ## Installation and run
 
-1. Run "InstalDb.java" to instal database and create database table.
-2. Run "WelcomePage.java" to run the program and start using.
+1. Go to "InstalDb.java" to change "name" from String dbName into desire database name.
+2. Run "InstalDb.java" to instal database and create database table.
+3. Run "WelcomePage.java" to run the program and start using.
 
 ## Usage
 
